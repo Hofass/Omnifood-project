@@ -160,3 +160,48 @@ body {
 .main-nav-link.nav-cta:active{
 	background-color: #cf711f;
 }
+
+.section-how{
+	padding: 9.6rem 0;
+	background-color: orangered;
+}
+
+.section-how div{
+	font-size: 50px;
+	padding: 100px;
+}
+.section-how div:nth-child(1){
+background-color: aqua;
+}
+.section-how div:nth-child(2){
+background-color: blue;
+}
+.section-how div:nth-child(3){
+background-color: violet;
+}
+.section-how div:nth-child(4){
+background-color: red;
+}
+
+.container{
+	max-width: 120rem;
+	padding: 0 3.2rem;
+	margin: 0 auto;
+}
+
+.grid{
+	display: grid;
+	gap: 1.6rem;
+}
+
+.grid--2-cols{
+	grid-template-columns:  1fr 1fr;
+}
+
+.grid--3-cols{
+	grid-template-columns:  1fr 1fr 1fr;
+}
+
+.grid--4-cols{
+	grid-template-columns:  1fr 1fr 1fr 1fr;
+}
