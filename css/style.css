@@ -173,7 +173,7 @@ body {
 
 .grid{
 	display: grid;
-	gap: 1.6rem;
+	gap: 9.6rem;
 }
 
 .grid--2-cols{
@@ -190,4 +190,24 @@ body {
 
 .step-img{
 	width: 50%;
+}
+
+.heading-secondary{
+	font-weight: 700;
+	color: #333;
+	letter-spacing: -0.5px;
+	font-size: 4.4rem;
+	line-height: 1.2;
+	margin-bottom: 9.6rem;
+
+}
+
+.subheading{
+	display: block;
+	font-size: 1.6rem;
+	font-weight: bold;
+	color: #cf711f;
+	text-transform: uppercase;
+	margin-bottom: 1.6rem;
+	letter-spacing: 0.75px;
 }
