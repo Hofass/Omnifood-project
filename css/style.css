@@ -163,24 +163,6 @@ body {
 
 .section-how{
 	padding: 9.6rem 0;
-	background-color: orangered;
-}
-
-.section-how div{
-	font-size: 50px;
-	padding: 100px;
-}
-.section-how div:nth-child(1){
-background-color: aqua;
-}
-.section-how div:nth-child(2){
-background-color: blue;
-}
-.section-how div:nth-child(3){
-background-color: violet;
-}
-.section-how div:nth-child(4){
-background-color: red;
 }
 
 .container{
@@ -204,4 +186,8 @@ background-color: red;
 
 .grid--4-cols{
 	grid-template-columns:  1fr 1fr 1fr 1fr;
+}
+
+.step-img{
+	width: 50%;
 }
