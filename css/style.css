@@ -426,3 +426,8 @@ background-color: #ffd43b;
 .center-text{
 	text-align: center;
 }
+
+/* TESTIMONIALS SECTION */
+.section-testimonials{
+	padding: 9.6rem 0;
+}
