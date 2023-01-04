@@ -491,6 +491,12 @@ strong {
 	margin-bottom: 4.8px;
 }
 
+.pricing-plan{
+	background-color: #fdf2e9;
+	border-radius: 11px;
+	padding: 4.8rem;
+}
+
 .plan-name {
 	color: #cf711f;
 	font-weight: 600;
