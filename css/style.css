@@ -511,6 +511,8 @@ font-weight: 700;
 top: 0;
 right: 0;
 background-color: #ffd43b;
+padding: 0.8rem 3.2rem;
+color: ##333;
 }
 
 .pricing-plan--complete{
