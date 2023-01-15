@@ -95,6 +95,10 @@ body {
 	color: #555;
 }
 
+*:focus{
+	outline: none;
+	box-shadow: 0 0 0 0.8rem rgba(148, 68, 18,0.5);
+}
 
 .margin-right-sm {
 	margin-right: 1.6rem !important;
@@ -678,4 +682,10 @@ strong {
 .cta-form select {
 }
 .cta-form button {
+}
+
+
+.cta *:focus{
+	outline: none;
+	box-shadow: 0 0 0 0.8rem rgb(253, 242, 233,0.5);
 }
