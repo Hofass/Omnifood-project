@@ -214,6 +214,9 @@ grid:last-child {
 .grid--4-cols {
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+.grid--5-cols {
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
 
 .grid--center-v {
 	align-items: center;
@@ -688,4 +691,8 @@ strong {
 .cta *:focus{
 	outline: none;
 	box-shadow: 0 0 0 0.8rem rgb(253, 242, 233,0.5);
+}
+
+.footer{
+	padding: 9.6rem 0;
 }
