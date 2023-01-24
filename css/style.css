@@ -722,3 +722,18 @@ transition: all 0.3s;
 .footer-link:active{
 color: #555;
 }
+
+.social-links{
+	list-style: none;
+	display: flex;
+	gap: 2.4rem;
+}
+
+.footer-logo{
+	display: block;
+	margin-bottom: 3.2rem;
+}
+
+.social-icon{
+	
+}
