@@ -735,5 +735,19 @@ color: #555;
 }
 
 .social-icon{
-	
+height: 2.4rem;
+width: 2.4rem;
+}
+
+.copyright{
+	font-size: 1.4rem;
+	color: #767676;
+	line-height: 1.6;
+	margin-top: auto;
+}
+
+.logo-col{
+	display: flex;
+	flex-direction: column;
+
 }
