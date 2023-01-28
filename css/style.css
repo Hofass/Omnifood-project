@@ -749,5 +749,14 @@ width: 2.4rem;
 .logo-col{
 	display: flex;
 	flex-direction: column;
+}
 
+.contacts{
+	font-style: normal;
+	font-size: 1.6rem;
+	line-height: 1.6;
+}
+
+.address{
+	margin-bottom: 2.4rem;
 }
